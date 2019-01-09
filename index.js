@@ -18,5 +18,5 @@ function addNewElementAsLi(){
 }
 
 function addNewLiOnClick(){
-  addedEmployee = document.querySelector('input[type')
+  addedEmployee = document.querySelector('input[type="submit"]')
 }
