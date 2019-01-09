@@ -23,3 +23,7 @@ function addNewLiOnClick(){
    addNewElementAsLi();
  })
 }
+
+clearEmployeeListOnLinkClick(){
+  
+}
