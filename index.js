@@ -21,6 +21,6 @@ function addNewLiOnClick(){
   addedEmployee = document.querySelector('input[type="submit"]')
  addedEmployee.addEventListener('click', function(event){
    addNewElementAsLi();
-   resetInput
+   resetInput();
  })
 }
