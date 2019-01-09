@@ -18,5 +18,5 @@ function addNewElementAsLi(){
 }
 
 function addNewLiOnClick(){
-  let addedEmployee = 
+  let addedEmployee = document.querySelector('')
 }
