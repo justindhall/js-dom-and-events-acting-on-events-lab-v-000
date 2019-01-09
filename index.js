@@ -17,3 +17,6 @@ function addNewElementAsLi(){
   document.querySelector('.employee-list').append('<li>',name,'</li>');
 }
 
+function addNewLiOnClick(){
+  addedEmployee = document.querySelector('input[type')
+}
