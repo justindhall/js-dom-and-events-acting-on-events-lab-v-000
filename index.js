@@ -6,6 +6,8 @@ function preventRefreshOnSubmit(){
 
 preventRefreshOnSubmit()
 
+let input = querySelector
+
 function retrieveEmployeeInformation(){
   
 }
